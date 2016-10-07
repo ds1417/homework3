@@ -27,6 +27,8 @@ import java.util.*;
               tax=this.money*(28/100);
               
               else tax=this.money*(37/100);
+           System.out.print("연봉금액의 소득세는"+tax+"입니다"); 
+          
          } 
          
            public static void main(String[] args){ 
