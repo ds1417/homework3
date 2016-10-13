@@ -1,4 +1,4 @@
-mport java.util.*;
+import java.util.*;
 class B03{
 
              int month,day;
