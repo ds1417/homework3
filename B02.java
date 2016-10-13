@@ -1,4 +1,4 @@
-mport java.util.*;
+import java.util.*;
 class B02{
 
              double pyung_area;
